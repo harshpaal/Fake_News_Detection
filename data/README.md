@@ -1,1 +1,3 @@
-Thsi folder contains the preprocessed dataset
+This folder contains the preprocessed dataset
+\n
+The dataset is taken from https://github.com/joolsa/fake_real_news_dataset/blob/master/fake_or_real_news.csv.zip
